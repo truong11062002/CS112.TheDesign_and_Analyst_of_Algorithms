@@ -49,5 +49,5 @@
 | 4      | 20520309      | Lại Chí Thiện          |https://github.com/laichithien                        |20520309@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-1. Tên đồ án: 
+1. Tên đồ án: Branch and Bound, Alpha-Beta Pruning
 
